@@ -1,0 +1,49 @@
+
+body {
+    text-align: center;
+    background-color: rgb(228, 236, 255);
+  }
+  .head{
+    font-weight: bolder;
+    color: #29386c;
+    text-decoration: underline;
+  }
+   .SaudiArabia-page {
+    margin-top: 80px;
+    text-align: center;
+    color: #414a69;
+  }
+  
+  .SaudiArabia-table {
+    text-align: center;
+    margin: 0 auto; /* Center the table and add space around it */
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    width: 95%;
+  }
+  
+  .SaudiArabia-table th {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+  }
+  
+  .SaudiArabia-table td, .SaudiArabia-table th {
+    border: 1.5px solid #ddd;
+    text-align: center;
+    padding: 20px;
+    font-weight: 700; 
+  
+  }
+  
+  .blue-background {
+    background-color: #29386c;
+    color: white;
+  }
+  
+  .orange-background {
+    background-color: rgb(220, 148, 14);
+    color: white;
+  }
+  

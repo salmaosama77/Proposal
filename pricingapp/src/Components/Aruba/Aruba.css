@@ -1,0 +1,45 @@
+/* Aland.css */
+body {
+    text-align: center;
+    background-color: rgb(228, 236, 255);
+  }
+  
+  .Aruba-page {
+    margin-top: 80px;
+    text-align: center;
+    color: #414a69;
+  }
+  
+  .Aruba-table {
+    text-align: center;
+    margin: 0 auto; 
+    margin-bottom: 50px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 95%;
+  }
+  
+  .Aruba-table th {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+  }
+  
+  .Aruba-table td, .Aruba-table th {
+    border: 1.5px solid #ddd;
+    text-align: center;
+    padding: 20px;
+    font-weight: 700;
+  }
+  
+  .blue-background {
+    background-color: #29386c;
+    color: white;
+  }
+  
+  .orange-background {
+    background-color: rgb(220, 148, 14);
+    color: white;
+  }
+  
